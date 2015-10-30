@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Terminator/Documents/CS152A/fp/tb1_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tb1" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/tb1/uut/D" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">D[11:0]</obj_property>
+      <obj_property name="ObjectShortName">D[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/S" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">S</obj_property>
+      <obj_property name="ObjectShortName">S</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/F" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">F[3:0]</obj_property>
+      <obj_property name="ObjectShortName">F[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/E" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">E[2:0]</obj_property>
+      <obj_property name="ObjectShortName">E[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/sign_mag" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sign_mag[11:0]</obj_property>
+      <obj_property name="ObjectShortName">sign_mag[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/num_leading" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">num_leading[31:0]</obj_property>
+      <obj_property name="ObjectShortName">num_leading[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/i" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/pos_five" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">pos_five[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pos_five[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/shift_amt" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">shift_amt[31:0]</obj_property>
+      <obj_property name="ObjectShortName">shift_amt[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb1/uut/bit_five" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">bit_five[31:0]</obj_property>
+      <obj_property name="ObjectShortName">bit_five[31:0]</obj_property>
+   </wvobject>
+</wave_config>

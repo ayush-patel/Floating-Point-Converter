@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Terminator\Documents\CS152A\fp\converter.ncd
+OUTFILE=C:\Users\Terminator\Documents\CS152A\fp\converter.bit
+FAMILY=Spartan3
+PART=xc3s50-4pq208
+WORKINGDIR=C:\Users\Terminator\Documents\CS152A\fp
+LICENSE=WebPack
+USER_INFO=211106091_0_0_754
